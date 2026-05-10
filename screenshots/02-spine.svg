@@ -1,0 +1,46 @@
+<svg width="1440" height="900" viewBox="0 0 1440 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1440" height="900" fill="#0A0F14"/>
+  <rect x="60" y="50" width="1320" height="800" rx="34" fill="#121925" stroke="#2C3951" stroke-width="2"/>
+  <text x="104" y="126" fill="#8FD5FF" font-family="Segoe UI, Arial, sans-serif" font-size="20" letter-spacing="8">SCENARIO SPINE</text>
+  <text x="104" y="206" fill="#F2EAD8" font-family="Georgia, serif" font-size="54" font-weight="700">
+    <tspan x="104" dy="0">Three branches, kept symmetrical</tspan>
+    <tspan x="104" dy="58">so the tradeoffs read instantly.</tspan>
+  </text>
+  <rect x="104" y="316" width="380" height="430" rx="26" fill="#1A2434" stroke="#314462"/>
+  <rect x="530" y="316" width="380" height="430" rx="26" fill="#1F2A3C" stroke="#8B7355"/>
+  <rect x="956" y="316" width="320" height="430" rx="26" fill="#1A2434" stroke="#314462"/>
+  <text x="138" y="364" fill="#A8B7CB" font-family="Segoe UI, Arial, sans-serif" font-size="18">DEFENSIVE POSTURE · 24%</text>
+  <text x="138" y="426" fill="#F2EAD8" font-family="Georgia, serif" font-size="38" font-weight="700">Downside</text>
+  <text x="138" y="474" fill="#C1CBD9" font-family="Segoe UI, Arial, sans-serif" font-size="22">
+    <tspan x="138" dy="0">Protect margin and trust while</tspan>
+    <tspan x="138" dy="28">slowing hiring and rollout tempo.</tspan>
+  </text>
+  <text x="138" y="566" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="21">
+    <tspan x="138" dy="0">• Delay broad rollout</tspan>
+    <tspan x="138" dy="34">• Freeze new vendor exposure</tspan>
+    <tspan x="138" dy="34">• Shift to renewal preservation</tspan>
+  </text>
+  <text x="564" y="364" fill="#F7D783" font-family="Segoe UI, Arial, sans-serif" font-size="18">CONTROLLED EXECUTION · 51%</text>
+  <text x="564" y="426" fill="#F2EAD8" font-family="Georgia, serif" font-size="38" font-weight="700">Base case</text>
+  <text x="564" y="474" fill="#C1CBD9" font-family="Segoe UI, Arial, sans-serif" font-size="22">
+    <tspan x="564" dy="0">Move validated work forward while</tspan>
+    <tspan x="564" dy="28">preserving executive confidence.</tspan>
+  </text>
+  <text x="564" y="566" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="21">
+    <tspan x="564" dy="0">• Promote proven pricing lane</tspan>
+    <tspan x="564" dy="34">• Resolve identity backlog</tspan>
+    <tspan x="564" dy="34">• Maintain AI release discipline</tspan>
+  </text>
+  <text x="990" y="364" fill="#A8B7CB" font-family="Segoe UI, Arial, sans-serif" font-size="18">EXPANSION POSTURE · 25%</text>
+  <text x="990" y="426" fill="#F2EAD8" font-family="Georgia, serif" font-size="38" font-weight="700">Upside</text>
+  <text x="990" y="474" fill="#C1CBD9" font-family="Segoe UI, Arial, sans-serif" font-size="22">
+    <tspan x="990" dy="0">Accelerate demand and pipeline</tspan>
+    <tspan x="990" dy="28">after blockers are cleared.</tspan>
+  </text>
+  <text x="990" y="566" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="21">
+    <tspan x="990" dy="0">• Increase partner allocation</tspan>
+    <tspan x="990" dy="34">• Expand lifecycle motion</tspan>
+    <tspan x="990" dy="34">• Fund operator automation</tspan>
+  </text>
+</svg>
+

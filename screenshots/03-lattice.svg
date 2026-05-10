@@ -1,0 +1,42 @@
+<svg width="1440" height="900" viewBox="0 0 1440 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1440" height="900" fill="#0A0F14"/>
+  <rect x="60" y="50" width="1320" height="800" rx="34" fill="#121925" stroke="#2C3951" stroke-width="2"/>
+  <text x="104" y="126" fill="#8FD5FF" font-family="Segoe UI, Arial, sans-serif" font-size="20" letter-spacing="8">DECISION LATTICE</text>
+  <text x="104" y="206" fill="#F2EAD8" font-family="Georgia, serif" font-size="54" font-weight="700">
+    <tspan x="104" dy="0">Levers that change which branch</tspan>
+    <tspan x="104" dy="58">becomes rational.</tspan>
+  </text>
+  <rect x="104" y="318" width="420" height="184" rx="24" fill="#1A2434" stroke="#314462"/>
+  <rect x="554" y="318" width="280" height="390" rx="24" fill="#1A2434" stroke="#314462"/>
+  <rect x="864" y="318" width="412" height="184" rx="24" fill="#1A2434" stroke="#314462"/>
+  <rect x="104" y="528" width="420" height="180" rx="24" fill="#1A2434" stroke="#314462"/>
+  <rect x="864" y="528" width="412" height="180" rx="24" fill="#1A2434" stroke="#314462"/>
+  <text x="136" y="364" fill="#BFDBFE" font-family="Segoe UI, Arial, sans-serif" font-size="18">READY</text>
+  <text x="136" y="418" fill="#F2EAD8" font-family="Georgia, serif" font-size="34" font-weight="700">Packaging clarity</text>
+  <text x="136" y="462" fill="#C1CBD9" font-family="Segoe UI, Arial, sans-serif" font-size="22">
+    Clarify the commercial offer before adding more demand pressure.
+  </text>
+  <text x="586" y="364" fill="#FDE68A" font-family="Segoe UI, Arial, sans-serif" font-size="18">WATCH</text>
+  <text x="586" y="418" fill="#F2EAD8" font-family="Georgia, serif" font-size="34" font-weight="700">Partner allocation</text>
+  <text x="586" y="462" fill="#C1CBD9" font-family="Segoe UI, Arial, sans-serif" font-size="22">
+    <tspan x="586" dy="0">Move budget toward stronger</tspan>
+    <tspan x="586" dy="28">referral lanes if forecast</tspan>
+    <tspan x="586" dy="28">confidence keeps holding.</tspan>
+  </text>
+  <text x="896" y="364" fill="#FECACA" font-family="Segoe UI, Arial, sans-serif" font-size="18">URGENT</text>
+  <text x="896" y="418" fill="#F2EAD8" font-family="Georgia, serif" font-size="34" font-weight="700">Identity cleanup</text>
+  <text x="896" y="462" fill="#C1CBD9" font-family="Segoe UI, Arial, sans-serif" font-size="22">
+    Reduce access-review drag before scaling customer-facing change volume.
+  </text>
+  <text x="136" y="574" fill="#BFDBFE" font-family="Segoe UI, Arial, sans-serif" font-size="18">READY</text>
+  <text x="136" y="628" fill="#F2EAD8" font-family="Georgia, serif" font-size="34" font-weight="700">Hiring tempo</text>
+  <text x="136" y="672" fill="#C1CBD9" font-family="Segoe UI, Arial, sans-serif" font-size="22">
+    Protect operator capacity without loading the quarter with fixed cost too early.
+  </text>
+  <text x="896" y="574" fill="#BFDBFE" font-family="Segoe UI, Arial, sans-serif" font-size="18">READY</text>
+  <text x="896" y="628" fill="#F2EAD8" font-family="Georgia, serif" font-size="34" font-weight="700">AI approvals</text>
+  <text x="896" y="672" fill="#C1CBD9" font-family="Segoe UI, Arial, sans-serif" font-size="22">
+    Keep evaluation quality high while releasing the next workflow cohort.
+  </text>
+</svg>
+
