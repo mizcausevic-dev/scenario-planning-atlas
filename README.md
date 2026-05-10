@@ -1,6 +1,6 @@
 # Scenario Planning Atlas
 
-![Hero](screenshots/01-hero.svg)
+![Hero](screenshots/01-hero.png)
 
 ## Executive Summary
 
@@ -60,16 +60,19 @@ flowchart LR
 ## Screenshots
 
 ### Hero
-![Hero](screenshots/01-hero.svg)
+![Hero](screenshots/01-hero.png)
 
 ### Scenario Spine
-![Scenario Spine](screenshots/02-spine.svg)
+![Scenario Spine](screenshots/02-spine.png)
 
-### Decision Lattice
-![Decision Lattice](screenshots/03-lattice.svg)
+### Downside Mode
+![Downside Mode](screenshots/03-downside-mode.png)
 
-### Exposure and Commitments
-![Exposure and Commitments](screenshots/04-exposures.svg)
+### Exposure and Ledger
+![Exposure and Ledger](screenshots/04-briefing-and-ledger.png)
+
+### Briefing and Queue
+![Briefing and Queue](screenshots/05-briefing-queue.png)
 
 ## Setup
 
