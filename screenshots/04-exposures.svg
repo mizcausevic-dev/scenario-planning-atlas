@@ -1,0 +1,29 @@
+<svg width="1440" height="900" viewBox="0 0 1440 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1440" height="900" fill="#0A0F14"/>
+  <rect x="60" y="50" width="1320" height="800" rx="34" fill="#121925" stroke="#2C3951" stroke-width="2"/>
+  <text x="104" y="126" fill="#8FD5FF" font-family="Segoe UI, Arial, sans-serif" font-size="20" letter-spacing="8">EXPOSURE AND COMMITMENTS</text>
+  <text x="104" y="206" fill="#F2EAD8" font-family="Georgia, serif" font-size="54" font-weight="700">
+    <tspan x="104" dy="0">Where scenario error costs the most,</tspan>
+    <tspan x="104" dy="58">and who owns the next move.</tspan>
+  </text>
+  <rect x="104" y="316" width="1212" height="118" rx="22" fill="#1A2434" stroke="#314462"/>
+  <rect x="104" y="454" width="1212" height="118" rx="22" fill="#1A2434" stroke="#314462"/>
+  <rect x="104" y="592" width="1212" height="118" rx="22" fill="#1A2434" stroke="#314462"/>
+  <text x="134" y="360" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="22">Pipeline creation</text>
+  <text x="134" y="392" fill="#C1CBD9" font-family="Segoe UI, Arial, sans-serif" font-size="20">Strongest response to packaging clarity and partner routing.</text>
+  <text x="964" y="360" fill="#A8B7CB" font-family="Segoe UI, Arial, sans-serif" font-size="18">High sensitivity</text>
+  <text x="1074" y="396" fill="#F2EAD8" font-family="Georgia, serif" font-size="34" font-weight="700">$1.8M</text>
+  <text x="134" y="498" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="22">Retention confidence</text>
+  <text x="134" y="530" fill="#C1CBD9" font-family="Segoe UI, Arial, sans-serif" font-size="20">Depends on trust recovery, access review cleanup, and support friction.</text>
+  <text x="944" y="498" fill="#A8B7CB" font-family="Segoe UI, Arial, sans-serif" font-size="18">Moderate sensitivity</text>
+  <text x="1074" y="534" fill="#F2EAD8" font-family="Georgia, serif" font-size="34" font-weight="700">$1.1M</text>
+  <text x="134" y="636" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="22">Governance drag</text>
+  <text x="134" y="668" fill="#C1CBD9" font-family="Segoe UI, Arial, sans-serif" font-size="20">Approval aging compounds quickly when scenario tempo increases.</text>
+  <text x="964" y="636" fill="#A8B7CB" font-family="Segoe UI, Arial, sans-serif" font-size="18">High sensitivity</text>
+  <text x="1058" y="672" fill="#F2EAD8" font-family="Georgia, serif" font-size="34" font-weight="700">9 days</text>
+  <rect x="104" y="738" width="1212" height="74" rx="20" fill="#182233" stroke="#30435F"/>
+  <text x="136" y="784" fill="#F2EAD8" font-family="Segoe UI, Arial, sans-serif" font-size="20">
+    Revenue Ops · Package refresh · Tue &nbsp;&nbsp;|&nbsp;&nbsp; Security Ops · Identity cleanup · Wed &nbsp;&nbsp;|&nbsp;&nbsp; Growth PM · Upside allocation brief · Thu
+  </text>
+</svg>
+
