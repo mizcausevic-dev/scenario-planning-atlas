@@ -7,7 +7,9 @@
 Scenario Planning Atlas is a React + TypeScript strategy surface for comparing
 downside, base-case, and upside operating paths. It is designed to make
 scenario selection feel visual, deliberate, and executive-readable instead of
-buried in spreadsheets or generic dashboards.
+buried in spreadsheets or generic dashboards. The current version adds a
+control-room layer with live scenario modes, projection rails, and a temporal
+ledger so the planning surface feels operational instead of static.
 
 ## Why It Matters
 
@@ -31,9 +33,13 @@ This project shows:
 
 | Area | What it shows |
 | --- | --- |
+| Command header | Active context, mode state, and risk framing before the user even reaches the planning canvas |
+| Scenario console | Live downside / base / upside switching with confidence and drift meters |
 | Scenario spine | Downside, base-case, and upside branches arranged with visual symmetry |
+| Projection rail | Month-by-month scenario compounding with clearer branch momentum |
 | Decision lattice | Strategy levers that change which branch becomes rational |
 | Exposure map | Sensitivity zones where scenario error becomes expensive |
+| Temporal ledger | A structured readout of the variables shaping branch quality |
 | Briefing layer | Executive-facing narrative framing for what changed, why it matters, and what to do next |
 | Commitment queue | Named owners and next moves attached to a specific branch |
 
@@ -41,10 +47,14 @@ This project shows:
 
 ```mermaid
 flowchart LR
-  A["Scenario spine"] --> B["Decision lattice"]
-  B --> C["Exposure map"]
-  C --> D["Briefing layer"]
-  D --> E["Commitment queue"]
+  A["Command header"] --> B["Scenario console"]
+  B --> C["Scenario spine"]
+  C --> D["Projection rail"]
+  D --> E["Decision lattice"]
+  E --> F["Exposure map"]
+  F --> G["Temporal ledger"]
+  G --> H["Briefing layer"]
+  H --> I["Commitment queue"]
 ```
 
 ## Screenshots
@@ -85,4 +95,3 @@ npm run lint
 - [Skills / Portfolio](https://mizcausevic.com/skills/)
 - [Medium](https://medium.com/@mizcausevic)
 - [GitHub](https://github.com/mizcausevic-dev)
-
