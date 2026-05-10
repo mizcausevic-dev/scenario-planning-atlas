@@ -5,3 +5,4 @@ dist/
 coverage/
 vite-dev.log
 vite-dev.err.log
+.vite/
