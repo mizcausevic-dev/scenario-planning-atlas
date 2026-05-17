@@ -77,7 +77,7 @@ flowchart LR
 ## Setup
 
 ```powershell
-Set-Location "C:\Users\chaus\Documents\Codex\2026-05-06\you-are-working-in-the-my\scenario-planning-atlas"
+cd scenario-planning-atlas
 npm install
 npm run dev
 ```
@@ -85,7 +85,7 @@ npm run dev
 ## Validation
 
 ```powershell
-Set-Location "C:\Users\chaus\Documents\Codex\2026-05-06\you-are-working-in-the-my\scenario-planning-atlas"
+cd scenario-planning-atlas
 npm test
 npm run build
 npm run lint
